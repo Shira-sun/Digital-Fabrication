@@ -13,3 +13,6 @@ For now, I want to focus on one image, of the window in my apartment in Jerusale
 ![03](drawing-04.jpeg)
 
 ![02](drawing-02.png)
+
+Sketch in progress:
+![05](drawing-05.png)
