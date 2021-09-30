@@ -4,4 +4,6 @@ This week I continued to read about the consept of memory palace. When thinking 
 
 After a work meeting with Stuti, we decided to make this memory palace come to life by adding a sound AR expreince to it. The glass dome would be arrange in a structre (tbd). The visitor will have an ipad, and when viewing the minuatre, a sound of the place represented in the miniature will be played. We hope that this expreince could enhance the filling of capturing memory and plave via objects.
 
+![01](drawing-01.png)
+
 
